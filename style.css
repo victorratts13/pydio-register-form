@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+
+.body{
+	background-image:url(back.jpg);
+	width:100%;
+	background-attachment:fixed;
+}
+.div{
+	background-color:rgba(0,0,0,0.1);
+	position:absolute;
+	alignment-adjust:central;
+	left:25%;
+	text-align:center;
+	height:100%;
+	width:50%;
+	top:0;
+	padding-top:0;
+	color:rgba(255,255,255,1);
+	font-size:12px;
+}
+h1{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:20px;
+	color:rgba(255,255,255,0.8);
+}
+.img{
+	size:50px;
+}
